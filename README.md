@@ -39,8 +39,8 @@ This project is a simple implementation of the classic Snake game in C++. It fea
 ## Usage
 
 After compiling, run the executable:
-  ```bash
-    ./snake_game
+```bash
+ ./snake_game
 
 Follow the on-screen instructions to enter your name and select a difficulty level. Use the control keys to navigate the snake and avoid hitting the walls or your own tail.
 
