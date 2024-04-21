@@ -34,7 +34,7 @@ This project is a simple implementation of the classic Snake game in C++. It fea
 2. Open the project folder and ensure you have a C++ compiler installed. If you don't have one, install GCC or similar.
 3. Compile the source code:
    ```bash
-  g++ -o snake_game snake_game.cpp
+    g++ -o snake_game snake_game.cpp
 
 ## Usage
 
